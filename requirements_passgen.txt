@@ -1,0 +1,2 @@
+pyperclip>=1.8.2   # optional — clipboard support. Install only if you want --copy
+pytest>=7.0        # for running tests
